@@ -1,1 +1,3 @@
 Det här är mitt första dokument för github så att Jenny kan visa hur det funkar :) 
+
+Det här är en ny rad som jag skrivit. Den är jättefin :D
